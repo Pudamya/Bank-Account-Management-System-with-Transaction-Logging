@@ -7,7 +7,7 @@ To get started with the Bank Account Management System, follow these steps:
 
 ## Clone the Repository:
 
-Use the command git clone https://github.com/yourusername/Bank-Account-Management-System-with-Transaction-Logging.git to clone the repository to your local machine.
+Use the command git clone https://github.com/Pudamya/Bank-Account-Management-System-with-Transaction-Logging.git to clone the repository to your local machine.
 Ensure Java Development Kit (JDK) is Installed:
 
 Make sure you have JDK 8 or higher installed on your machine. You can download it from the Oracle website.
